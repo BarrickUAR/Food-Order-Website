@@ -11,7 +11,9 @@ A restaurant website built using HTML, CSS, React, Next.js, and Tailwind. The si
 
 ![Desktop](https://github.com/user-attachments/assets/ae644342-f6f6-4bd2-a182-ed998e19d4cd)
 
-![mobile](https://github.com/user-attachments/assets/12cc80d3-8b82-45d0-91b7-465e5e2a7832)
+![mobile](https://github.com/user-attachments/assets/6447088c-f82c-4846-a460-01ba963fca9d)
+
+
 
 
 -----------------------------------------------------
