@@ -1,3 +1,22 @@
+
+# Feane Restaurant Website
+
+
+
+A restaurant website built using HTML, CSS, React, Next.js, and Tailwind. The site features an intuitive design for ordering burgers, pizzas, and more. It is currently under development.
+                
+
+
+## Images
+
+![Desktop](https://github.com/user-attachments/assets/ae644342-f6f6-4bd2-a182-ed998e19d4cd)
+
+![mobile](https://github.com/user-attachments/assets/12cc80d3-8b82-45d0-91b7-465e5e2a7832)
+
+
+-----------------------------------------------------
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
