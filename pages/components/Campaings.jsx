@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { MdShoppingCart } from "react-icons/md";
-import Title from "./layout/ui/Title";
+import Title from "./ui/Title";
 
 const CampaignItem = () => {
   return (

@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Logo from "./ui/Logo";
+import Logo from "../ui/Logo";
 import { FaUserAlt, FaSearch, FaShoppingCart } from "react-icons/fa";
 import OutsideClickHandler from "react-outside-click-handler";
-import Search from "./ui/Search";
+import Search from "../ui/Search";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { IoIosCloseCircle } from "react-icons/io";
 import { useRouter } from "next/router";
