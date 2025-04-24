@@ -32,19 +32,31 @@ const Footer = () => {
                 href="#"
                 class="w-8 h-8 grid place-content-center bg-white text-secondary rounded-full hover:text-white hover:bg-primary transition-all"
               >
-                <i class="fa fa-facebook"></i>
+                <i class="fab fa-facebook"></i>
               </a>
               <a
                 href="#"
                 class="w-8 h-8 grid place-content-center bg-white text-secondary rounded-full hover:text-white hover:bg-primary transition-all"
               >
-                <i class="fa fa-twitter"></i>
+                <i class="fab fa-twitter"></i>
               </a>
               <a
                 href="#"
                 class="w-8 h-8 grid place-content-center bg-white text-secondary rounded-full hover:text-white hover:bg-primary transition-all"
               >
-                <i class="fa fa-instagram"></i>
+                <i class="fab fa-instagram"></i>
+              </a>
+              <a
+                href="#"
+                class="w-8 h-8 grid place-content-center bg-white text-secondary rounded-full hover:text-white hover:bg-primary transition-all"
+              >
+                <i class="fab fa-discord"></i>
+              </a>
+              <a
+                href="#"
+                class="w-8 h-8 grid place-content-center bg-white text-secondary rounded-full hover:text-white hover:bg-primary transition-all"
+              >
+                <i class="fab fa-behance"></i>
               </a>
             </div>
           </div>
